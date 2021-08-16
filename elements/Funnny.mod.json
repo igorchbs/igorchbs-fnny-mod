@@ -1,0 +1,19 @@
+{
+  "_fv": 18,
+  "_type": "potion",
+  "definition": {
+    "name": "Funnny",
+    "effectName": "Funnny",
+    "icon": "disc14.png",
+    "color": {
+      "value": -52429,
+      "falpha": 0.0
+    },
+    "isInstant": true,
+    "isBad": false,
+    "isBenefitical": false,
+    "registerPotionType": true,
+    "renderStatusInInventory": true,
+    "renderStatusInHUD": true
+  }
+}
