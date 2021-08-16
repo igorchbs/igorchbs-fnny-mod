@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="BSD License Common Development and Distribution License (CDDL)"
+
+[[mods]]
+modId="igorchbsfunnymod"
+version="0.0.1"
+displayName="igorchbsfunnymod"
+credits="igorchbs"
+displayURL="https://omlet.gg/d/profiles/igorchbs"
+logoFile="logo.png"
+authors="igorchbs"
+description='''
+just it will add a funny
+'''
+
+[[dependencies.igorchbsfunnymod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

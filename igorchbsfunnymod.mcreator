@@ -1,0 +1,70 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Igorchbsfunnymod",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "igorchbsfunnymod"
+    },
+    {
+      "name": "PC",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pc"
+    },
+    {
+      "name": "Funnny",
+      "type": "potion",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "funnny"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.igorchbsfunnymod.pc": "PC",
+      "item.minecraft.lingering_potion.effect.funnny": "Lingering Funnny",
+      "effect.funnny": "Funnny",
+      "item.minecraft.splash_potion.effect.funnny": "Splash Funnny",
+      "item.minecraft.tipped_arrow.effect.funnny": "Arrow of Funnny",
+      "itemGroup.tabigorchbsfunnymod": "Igorchbsfunnymod",
+      "item.minecraft.potion.effect.funnny": "Funnny"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "igorchbsfunnymod",
+    "modName": "igorchbsfunnymod",
+    "version": "0.0.1",
+    "description": "just it will add a funny",
+    "author": "igorchbs",
+    "websiteURL": "https://omlet.gg/d/profiles/igorchbs",
+    "license": "BSD License Common Development and Distribution License (CDDL)",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "disc14",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "igorchbs",
+    "modElementsPackage": "net.mcreator.igorchbsfunnymod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

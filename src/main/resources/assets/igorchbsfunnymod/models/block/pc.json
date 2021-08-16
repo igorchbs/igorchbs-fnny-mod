@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "igorchbsfunnymod:blocks/pc",
+    "up": "igorchbsfunnymod:blocks/pc",
+    "north": "igorchbsfunnymod:blocks/c",
+    "east": "igorchbsfunnymod:blocks/pc",
+    "south": "igorchbsfunnymod:blocks/pc",
+    "west": "igorchbsfunnymod:blocks/pc",
+    "particle": "igorchbsfunnymod:blocks/pc"
+  }
+}
